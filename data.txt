@@ -1,0 +1,5 @@
+booster = 480
+timediff = 0
+event_map_buff = 1
+start_sound = False
+rest_time = 40
